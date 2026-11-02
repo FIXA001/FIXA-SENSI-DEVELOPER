@@ -1,0 +1,6 @@
+{
+  "name": "FIXA GAMING – Free Fire Sensitivity & Optimization",
+  "description": "Official FIXA GAMING platform for Free Fire custom device sensitivity, FPS optimization, VIP esports configs, and FIXA AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

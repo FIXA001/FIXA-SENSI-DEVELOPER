@@ -1,0 +1,162 @@
+{
+  "stats": {
+    "visitors": 4860,
+    "likes": 3441,
+    "tiktokClicks": 2181,
+    "whatsappClicks": 1641,
+    "calibrations": 8920
+  },
+  "season": {
+    "currentMonth": "2026-11",
+    "lastMonthWinner": {
+      "name": "亗 R U S H E R 亗",
+      "xp": 3820,
+      "reward": "Free Fire Weekly Lite Membership Claimed",
+      "month": "2026-10"
+    }
+  },
+  "leaderboard": [
+    {
+      "id": "lb_1793479296334",
+      "name": "亗 FIXA_TOP_LK 亗",
+      "xp": 450,
+      "badge": "Silver Drag Master",
+      "device": "POCO X6 Pro 5G",
+      "avatar": "🔥",
+      "isRegistered": true,
+      "uid": "2840192841",
+      "updatedAt": "2026-11-01T23:32:32.956Z"
+    },
+    {
+      "id": "lb_1793589649696",
+      "name": "Deamon",
+      "xp": 450,
+      "badge": "Silver Drag Master",
+      "device": "Android Phone",
+      "avatar": "🔥",
+      "isRegistered": true,
+      "uid": "1134567267",
+      "updatedAt": "2026-11-02T03:20:49.696Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr_admin_1",
+      "username": "fixaadmin",
+      "passwordHash": "fixa@2026",
+      "role": "admin",
+      "name": "FIXA GAMING Owner",
+      "createdAt": "2026-10-31T19:48:55.855Z",
+      "expiresAt": "2099-12-31",
+      "status": "active",
+      "notes": "Main Administrator & Site Owner"
+    },
+    {
+      "id": "usr_vip_demo",
+      "username": "fixavip",
+      "passwordHash": "vipheadshot2026",
+      "role": "vip",
+      "name": "Pro Esports VIP Member",
+      "createdAt": "2026-10-31T19:48:55.855Z",
+      "expiresAt": "2027-12-31",
+      "status": "active",
+      "notes": "Official VIP Access Pass"
+    },
+    {
+      "id": "usr_vip_player2",
+      "username": "headshotking",
+      "passwordHash": "onetap777",
+      "role": "vip",
+      "name": "Drag Master VIP",
+      "createdAt": "2026-10-31T19:48:55.855Z",
+      "expiresAt": "2027-06-30",
+      "status": "active",
+      "notes": "Tournament player account"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "fb_1",
+      "name": "Kasun Bandara (亗 K A S U N 亗)",
+      "deviceModel": "Redmi Note 12 Pro 5G",
+      "category": "Website Improvement",
+      "rating": 5,
+      "message": "අලුතින් දාපු Theme Selector එක පට්ටම ලස්සනයි! Cobra Cyan & Draco Purple දාලා ගහද්දි pro gaming vibe එකක් එනවා. One Tap drag sensitivity එකත් 120Hz display එකට 100% හරියට වැඩ. CS Ranked වල 84% headshot rate එකක් ගත්තා!",
+      "createdAt": "2026-11-01T15:20:00.000Z",
+      "status": "reviewed"
+    },
+    {
+      "id": "fb_2",
+      "name": "Dineth Perera",
+      "deviceModel": "iPhone 14 Pro Max",
+      "category": "Feature Suggestion",
+      "rating": 5,
+      "message": "Royale Gold theme එකයි Pro-Aim overlay එකයි මාරම වටිනවා. Free Fire iOS optimization guide එක නිසා highlight records කරද්දිවත් zero frame drops. Weekly Lite Challenge එකටත් register වුණා!",
+      "createdAt": "2026-11-01T11:15:00.000Z",
+      "status": "reviewed"
+    },
+    {
+      "id": "fb_3",
+      "name": "Tharindu Fernando",
+      "deviceModel": "Samsung Galaxy A54 5G",
+      "category": "Sensitivity Correction",
+      "rating": 5,
+      "message": "Exynos 1380 processor එකට FIXA AI Coach එකෙන් දුන්න 450 DPI & J-drag settings සුපිරියි. දැන් හැම shot එකම Red numbers විතරයි. Dark mode Venom green එකත් ඇස් වලට ගොඩක් පහසුයි.",
+      "createdAt": "2026-10-31T18:45:00.000Z",
+      "status": "reviewed"
+    },
+    {
+      "id": "fb_4",
+      "name": "Charith De Silva",
+      "deviceModel": "POCO X6 Pro 5G",
+      "category": "General",
+      "rating": 5,
+      "message": "Leaderboard එකේ ඇත්තටම register වෙච්ච අය විතරක් පෙන්නන එක ගොඩක් සාධාරණයි. Themes 5ම auto-save වෙන නිසා phone එකෙන් එද්දි ආයෙ හදන්න ඕන නෑ. Recommended for all Free Fire players in Sri Lanka!",
+      "createdAt": "2026-10-31T14:10:00.000Z",
+      "status": "reviewed"
+    }
+  ],
+  "customDevices": [
+    {
+      "id": "dev_1",
+      "platform": "Android",
+      "brand": "Infinix",
+      "model": "GT 20 Pro Gaming",
+      "refreshRate": 144,
+      "recommendedDpi": 440,
+      "specs": "Dimensity 8200 Ultimate, 12GB RAM, 144Hz AMOLED",
+      "createdAt": "2026-10-31T19:48:55.855Z"
+    },
+    {
+      "id": "dev_2",
+      "platform": "Android",
+      "brand": "Tecno",
+      "model": "Pova 6 Pro 5G",
+      "refreshRate": 120,
+      "recommendedDpi": 420,
+      "specs": "Dimensity 6080, 12GB RAM, 120Hz Display",
+      "createdAt": "2026-10-31T19:48:55.855Z"
+    }
+  ],
+  "config": {
+    "customLogoUrl": null,
+    "whatsappContact": "0741123762",
+    "tiktokUrl": "https://www.tiktok.com/@fixafftop?_r=1&_t=ZS-9AzTNxLrOXl",
+    "tiktokUsername": "@fixafftop",
+    "announcement": "🔥 FIXA GAMING OB48 Season Update: New Drag Headshot Curve Algorithms and VIP Sensitivity Presets are now live!"
+  },
+  "registrations": [
+    {
+      "id": "reg_1793479296334",
+      "gameName": "Deamon",
+      "email": "dakshinasandu90@gmail.com",
+      "uid": "2840192841",
+      "phoneNumber": "771123762",
+      "device": "Android Phone",
+      "xp": 450,
+      "badge": "Silver Drag Master",
+      "tikTokVerified": true,
+      "registeredAt": "2026-10-31T20:41:36.334Z"
+    }
+  ]
+}
